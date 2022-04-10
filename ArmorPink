@@ -1,3 +1,4 @@
+local PinkArmor = false
 Me = game.Players.LocalPlayer
 char = Me.Character
 larm = char["Left Arm"]
@@ -687,3 +688,4 @@ Weld.Part0 = torso
 Weld.C0 = CFrame.new(0, 0.0235004425, 0, -1, 0, 0, 0, 1, 0, 0, 0, -1)
 Weld.Part1 = Chest24
 Weld.C1 = CFrame.new(-0.458065987, -0.579999924, 0.306604624, 0.866025388, -0.50000006, 4.37113883e-008, 4.53686155e-008, 1.66003517e-007, 1, -0.50000006, -0.866025388, 1.66447563e-007)
+PinkArmor = true
