@@ -708,7 +708,6 @@ game.Players.LocalPlayer.Character.Middle5.Color = Purple
 game.Players.LocalPlayer.Character.larm7.Color = Purple
 game.Players.LocalPlayer.Character.rarm7.Color = Purple
 game.Players.LocalPlayer.Character.lleg7.Color = Purple
-game.Players.LocalPlayer.Character.rleg7.Color = Purple
 game.Players.LocalPlayer.Character.Ball.Color = Purple
 
 wait(0.1)
@@ -723,7 +722,6 @@ game.Players.LocalPlayer.Character.Middle5.Color = Crimson
 game.Players.LocalPlayer.Character.larm7.Color = Crimson
 game.Players.LocalPlayer.Character.rarm7.Color = Crimson
 game.Players.LocalPlayer.Character.lleg7.Color = Crimson
-game.Players.LocalPlayer.Character.rleg7.Color = Crimson
 game.Players.LocalPlayer.Character.Ball.Color = Crimson
 end
 end
